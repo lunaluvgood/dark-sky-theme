@@ -1,0 +1,23 @@
+{
+    "name": "dark-sky-theme",
+    "displayName": "Dark Sky Theme",
+    "description": "A Dark VS Code theme with colorful text elements.",
+	"publisher": "NikolaPaunovic",
+    "version": "0.0.2",
+	"repository": "https://github.com/lunaluvgood/dark-sky-theme",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Sky Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Sky Theme-color-theme.json"
+            }
+        ]
+    }
+}
