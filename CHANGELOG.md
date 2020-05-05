@@ -1,4 +1,31 @@
-# Change Log
+# Changelog
+
+# [v0.0.3]
+
+## In this release:
+
+### Theme updates:
+
+- Changed support.type color to #ff6f6f (see str command for example).
+- Set support.type style to italic (see str command for example).
+- Changed keyword color to #ffaa9b (see +, -, =, >, < signs for example).
+
+### Other Updates:
+
+- Updated marketplace page theme preview.
+- Updated the changelog with better wording.
+- Changed title of the changelog.
+
+## Future plans *(as of v0.0.3)*:
+- Theme more elements of the UI.
+- Apply a more consistent accent color to the UI.
+- Add an extension icon to the marketplace (most likely coming in v0.0.4).
+
+## Build Info:
+
+**Build Date:** 05-May-2020
+
+**Build Time:** 09:32 PM - CEST
 
 # [v0.0.2]
 
@@ -6,9 +33,9 @@
 
 ### Theme updates:
 
-- Updated constant.language color to #e7dc75 (see example for boolean)
+- Changed constant.language color to #e7dc75 (see example for boolean)
 - Set constant.language style to italic (see example for boolean)
-- Updated notification background color.
+- Changed notification background color.
 
 ### Other updates:
 
