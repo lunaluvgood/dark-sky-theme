@@ -1,5 +1,29 @@
 # Changelog
 
+# [v0.1.0]
+
+## In this release:
+
+### Theme updates:
+
+- Applied a more consistent background color (#f0ede9)
+- Applied a more consistent background color to UI elements (#161520)
+- Re-themed 48 UI elements.
+
+### Other updates:
+
+- Dark sky theme now has an icon :D
+
+### Future plans *(as of v0.1.0)*:
+
+- Look for potential tweaks to do before the release of v1.0.0
+
+## Build Info:
+
+**Build Date:** 06-May-2020
+
+**Build Time:** 07:37 PM - CEST
+
 # [v0.0.3]
 
 ## In this release:
@@ -13,8 +37,6 @@
 ### Other Updates:
 
 - Updated marketplace page theme preview.
-- Updated the changelog with better wording.
-- Changed title of the changelog.
 
 ## Future plans *(as of v0.0.3)*:
 - Theme more elements of the UI.
@@ -40,8 +62,6 @@
 ### Other updates:
 
 - Updated changelog to reflect version number visible in the marketplace.
-- Provided a better description of theme in the marketplace.
-- Updated the README file in the marketplace.
 - Provided a screenshot example for Python code in the marketplace.
 
 ## Future plans *(as of v0.0.2)*:
