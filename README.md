@@ -4,7 +4,7 @@
 
 # Recent updates
 
-Version 0.1.0 is here! This version brings a big overhaul to the details in the UI. The UI is now a lot more consistent and has a more consistent accent color. For the list of changes look at the changelog.
+Version 0.1.1 is here! This version brings slight changes to the line highlighting. For the list of changes look at the changelog.
 
 # Personal Note
 

@@ -50,6 +50,8 @@
 		"extensionButton.prominentHoverBackground": "#f0ede97e",
 		"quickInput.background": "#161520",
 		"debugToolBar.background": "#161520",
+		"editor.lineHighlightBackground": "#0c0f1849",
+		"editor.lineHighlightBorder": "#9b9b9b1a"
 	},
 	"tokenColors": [
 		{
